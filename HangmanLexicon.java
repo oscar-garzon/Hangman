@@ -19,7 +19,7 @@ public class HangmanLexicon {
 			case 2: return "CONNOISSEUR";
 			case 3: return "DEHYDRATE";
 			case 4: return "FUZZY";
-			case 5: return "HUBBUB";  //SE CICLA CON LAS LETRAS REPETIDAS
+			case 5: return "HUBBUB"; 
 			case 6: return "KEYHOLE";
 			case 7: return "QUAGMIRE";
 			case 8: return "SLITHER";
